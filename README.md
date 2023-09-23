@@ -1,6 +1,5 @@
 # qcb
 Qur'anic Character Building Web Source Code
-###########################################
 
 How to run:
 1. Import SQL file to PhpMyAdmin
